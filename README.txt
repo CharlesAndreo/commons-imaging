@@ -1,5 +1,5 @@
 =========================================================================
-Welcome to Apache Commons Imaging  <http://commons.apache.org/imaging/>
+Welcome to A pache Commons Imaging  <http://commons.apache.org/imaging/>
 =========================================================================
 
 License (see also LICENSE)
